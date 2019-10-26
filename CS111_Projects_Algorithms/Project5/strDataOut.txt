@@ -1,0 +1,15 @@
+The number of names is: 12
+
+Brett, Kane H
+Colins, Sindy S
+Franklin, Winifred K
+Franks, Vinny Y
+Fredricks, Eddy H
+Ice, Ronny G
+Minnie, Austin H
+Nick, Sandra A
+Robby, Beatrice Y
+Sally, Nikko Y
+Woods, Dodo U
+
+The name in the middle of the list is : Ice, Ronny G
