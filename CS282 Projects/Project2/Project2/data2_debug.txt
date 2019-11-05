@@ -1,0 +1,11 @@
+1663141092,Tom_Mother@DFfgO.com, Tom, Mother,orange,white
+1112456895,Ward_Larry@28d.com, Ward, Larry,white,lightgreen
+549994969,Fred_Wayne@Y6.com, Fred, Wayne,lightgreen,darkblue
+1376457423,Marge_Dickinson@IV7.com, Marge, Dickinson,darkred,lightgreen
+1455401111,Maggie_Johnson@rOU.org, Maggie, Johnson,grey,darkgreen
+1653478738,John_Thatcher@kIBGz.cc.ca.us, John, Thatcher,lightgreen,black
+1751010627,John_May@my.com, John, May,lightgreen,purple
+158939653,Tom_Curlyfries@go.com, Tom, Curlyfries,orange,black
+853546147,Lisa_Ward@Bv4.org, Lisa, Ward,brown,blue
+170467405,Tom_Moore@v.com, Tom, Moore,yellow,grey
+1490077418,John_Ward@V.com, John, Ward,grey,blue

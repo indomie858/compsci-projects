@@ -1,0 +1,5 @@
+John      Doe            jd@yahoo.com             123456    green     19.24      
+Mary      Jane           maryj@gmail.com          7654321   blue      27.54      
+Curly     Howard         nyuknyuk@msn.com         888765    purple    0.0        
+Bart      Simpson        donthaveacow@hotmail.com 457673    magenta   432.23     
+Clark     Kent           superdude@dailyplanet.com976834    red       11.1       
