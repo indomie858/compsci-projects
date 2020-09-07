@@ -1,4 +1,4 @@
-# refactored-spork
+# Computer Science Projects - College of the Canyons
 
 These are all of my projects from computer sciences courses: CS111-Algorithms, CS182-Data Structures, CS282-Advanced Data Structures
 
