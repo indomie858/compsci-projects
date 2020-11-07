@@ -1,5 +1,6 @@
-# Computer Science Projects - College of the Canyons
+# Computer Science Projects
 
-These are all of my projects from computer sciences courses: CS111-Algorithms, CS182-Data Structures, CS282-Advanced Data Structures
-
--Gaven G
+These are my projects from the following computer sciences courses: 
+- CS111-Algorithms
+- CS182-Data Structures
+- CS282-Advanced Data Structures
